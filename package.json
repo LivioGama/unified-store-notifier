@@ -29,7 +29,7 @@
     "dotenv": "^16.5.0",
     "googleapis": "^144.0.0",
     "dayjs": "^1.11.13",
-    "pino": "^8.21.0",
+    "pino": "^9.7.0",
     "pino-pretty": "^10.3.1"
   },
   "devDependencies": {
