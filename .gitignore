@@ -1,0 +1,15 @@
+node_modules
+kvstore.db
+.DS_Store
+.vendor
+.env
+.idea
+.env
+dist/
+logs/
+*.log
+data/
+.bundle/
+*.tgz
+*.tar.gz
+.tsbuildinfo
